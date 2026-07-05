@@ -138,10 +138,10 @@ Backend APIs        █████████░░   REST APIs, authenticatio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarjeetydv&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Amarjeet Yadav GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarjeetydv&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Amarjeet Yadav GitHub Stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Amarjeetydv&theme=github-dark-blue&hide_border=true" alt="Amarjeet Yadav GitHub Streak" />
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeetydv&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeetydv&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
