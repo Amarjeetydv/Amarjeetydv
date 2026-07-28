@@ -145,7 +145,7 @@ Backend APIs        █████████░░   REST APIs, authenticatio
 
 </div>
 
-## 🟩 Contribution Activity
+## 🐍 Snake eating my contribution 🐍
 
 
 <div align="center">
