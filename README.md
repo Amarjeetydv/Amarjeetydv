@@ -28,12 +28,12 @@ I am **Amarjeet Yadav**, an MCA student at **Lovely Professional University** an
 
 ## 🎯 Current Focus
 
-```text
+
 Advanced DSA        █████████░░   Improving consistency and depth
 System Design       ███████░░░░   Learning scalable architecture patterns
 Full Stack Skills   █████████░░   Building production-style applications
 Backend APIs        █████████░░   REST APIs, authentication, and databases
-```
+
 
 ## 🛠️ Tech Stack
 
@@ -147,10 +147,24 @@ Backend APIs        █████████░░   REST APIs, authenticatio
 
 ## 🟩 Contribution Activity
 
+```text
 <div align="center">
 
 ![Contribution Snake](https://raw.githubusercontent.com/Amarjeetydv/Amarjeetydv/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+```
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Amarjeetydv/Amarjeetydv/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
 </div>
 
 ## 💻 LeetCode
