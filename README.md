@@ -11,29 +11,54 @@
 
 ## About Me
 
-I'm an MCA student at Lovely Professional University (CGPA 8.80/10, graduating 2027), building full stack web applications with a focus on backend engineering — REST APIs, authentication, and database design. Alongside coursework, I'm strengthening my DSA and system design fundamentals as I prepare for software engineer roles.
+I'm pursuing my MCA at Lovely Professional University (CGPA: 8.80/10, graduating 2027), with a focus on full stack development and backend engineering — REST APIs, authentication, and database design. Alongside coursework, I'm working on strengthening my DSA and system design fundamentals as I prepare for software engineering roles.
 
-I filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and served as Class Representative during my 1st and 2nd semesters of MCA.
+I recently filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and I served as Class Representative during my 1st and 2nd semesters of MCA.
 
-Portfolio with detailed project write-ups: **[amarjeet-portfolio-blue.vercel.app](https://amarjeet-portfolio-blue.vercel.app/)**
+Portfolio with project details and write-ups: **[amarjeet-portfolio-blue.vercel.app](https://amarjeet-portfolio-blue.vercel.app/)**
 
 ## Tech Stack
 
-**Languages:** C++, Java, JavaScript, PHP
-**Frontend:** React.js, Angular 17, Bootstrap, HTML5/CSS3
-**Backend:** Node.js, Express.js, Laravel, REST APIs, JWT Auth
-**Database & Tools:** MySQL, Git, GitHub, Postman
+**Languages**
+- C++
+- Java
+- JavaScript
+- PHP
+
+**Frontend**
+- React.js
+- Angular 17
+- Bootstrap
+- HTML5 / CSS3
+
+**Backend**
+- Node.js
+- Express.js
+- Laravel
+- REST APIs
+- JWT Authentication
+
+**Database & Tools**
+- MySQL
+- Git
+- GitHub
+- Postman
 
 ## Certifications
 
-- Sigma 9.0 — Apna College
-- Full Stack Developer Diploma
+- Sigma 9.0
 - Java Programming
+- Full Stack Developer Diploma
 - Communication Skills
+
+## Quote
+
+> "Great software is built by combining strong fundamentals, clear thinking, and consistent practice."
 
 <div align="center">
 
 ---
+### Thanks for visiting my profile.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:1D4ED8,100:0F172A)
 
 </div>
