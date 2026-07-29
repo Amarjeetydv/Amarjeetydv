@@ -11,11 +11,11 @@
 
 ## About Me
 
-I'm an MCA student at Lovely Professional University, currently at a CGPA of 8.80/10, graduating 2027. I build full stack web applications with a backend-heavy focus — REST APIs, authentication, and database design — and I'm putting equal effort into DSA and system design as I prep for software engineer roles.
+I'm an MCA student at Lovely Professional University (CGPA 8.80/10, graduating 2027), building full stack web applications with a focus on backend engineering — REST APIs, authentication, and database design. Alongside coursework, I'm strengthening my DSA and system design fundamentals as I prepare for software engineer roles.
 
-Outside of coursework, I recently filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and I serve as a Class Representative during my 1st and 2nd Semester of MCA.
+I filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and served as Class Representative during my 1st and 2nd semesters of MCA.
 
-Portfolio with project details and write-ups: **[amarjeet-portfolio-blue.vercel.app](https://amarjeet-portfolio-blue.vercel.app/)**
+Portfolio with detailed project write-ups: **[amarjeet-portfolio-blue.vercel.app](https://amarjeet-portfolio-blue.vercel.app/)**
 
 ## Tech Stack
 
@@ -24,17 +24,16 @@ Portfolio with project details and write-ups: **[amarjeet-portfolio-blue.vercel.
 **Backend:** Node.js, Express.js, Laravel, REST APIs, JWT Auth
 **Database & Tools:** MySQL, Git, GitHub, Postman
 
-
 ## Certifications
 
-- **Sigma 9.0**
-- **Java Programming**
-- **Full Stack Developer Diploma**
-- **Communication Skills**
-## Quote 
-> "Great software is built by combining strong fundamentals, clear thinking, and consistent practice."
-<div align="center"> 
---- 
-### Thanks for visiting my profile. 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:1D4ED8,100:0F172A) 
+- Sigma 9.0 — Apna College
+- Full Stack Developer Diploma
+- Java Programming
+- Communication Skills
+
+<div align="center">
+
+---
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:1D4ED8,100:0F172A)
+
 </div>
