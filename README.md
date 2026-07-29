@@ -13,7 +13,7 @@
 
 I'm an MCA student at Lovely Professional University, currently at a CGPA of 8.80/10, graduating 2027. I build full stack web applications with a backend-heavy focus — REST APIs, authentication, and database design — and I'm putting equal effort into DSA and system design as I prep for software engineer roles.
 
-Outside of coursework, I recently filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and I serve as a Class Representative for one of my subjects.
+Outside of coursework, I recently filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and I serve as a Class Representative during my 1st and 2nd Semester of MCA.
 
 Portfolio with project details and write-ups: **[amarjeet-portfolio-blue.vercel.app](https://amarjeet-portfolio-blue.vercel.app/)**
 
@@ -24,32 +24,17 @@ Portfolio with project details and write-ups: **[amarjeet-portfolio-blue.vercel.
 **Backend:** Node.js, Express.js, Laravel, REST APIs, JWT Auth
 **Database & Tools:** MySQL, Git, GitHub, Postman
 
-## Featured Projects
-
-**[Emergency Response Coordination Platform](https://github.com/Amarjeetydv/emergency-response-system)** — Real-time incident reporting and responder coordination with live communication via Socket.io.
-Angular · Node.js · MySQL · Socket.io · JWT
-[Live demo](https://emergency-response-system-frontend.vercel.app/login)
-
-**[Vehicle Fuel Protection System](https://github.com/Amarjeetydv/vehicle-fuel-protection-system)** — Fuel theft detection with automatic vehicle locking, built on MySQL triggers and stored procedures.
-React · Node.js · Express.js · MySQL
-
-**[Cafe Management System](https://github.com/Amarjeetydv/Cafe-Management-System)** — Role-based system for billing, inventory, and order management with JWT authentication.
-Angular 17 · Node.js · Express.js · MySQL · JWT
-
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amarjeetydv&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeetydv&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
-</div>
 
 ## Certifications
 
-Sigma 9.0 (Apna College) · Full Stack Developer Diploma (A+) · Java Programming · Communication Skills
-
-<div align="center">
-
----
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0EA5E9,50:1D4ED8,100:0F172A)
-
+- **Sigma 9.0**
+- **Java Programming**
+- **Full Stack Developer Diploma**
+- **Communication Skills**
+## Quote 
+> "Great software is built by combining strong fundamentals, clear thinking, and consistent practice."
+<div align="center"> 
+--- 
+### Thanks for visiting my profile. 
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:1D4ED8,100:0F172A) 
 </div>
