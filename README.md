@@ -15,7 +15,7 @@ I'm pursuing my MCA at Lovely Professional University (CGPA: 8.80/10, graduating
 
 I recently filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and I served as Class Representative during my 1st and 2nd semesters of MCA.
 
-Portfolio with project details and write-ups: **[amarjeet-portfolio-blue.vercel.app](https://amarjeetyadav.vercel.app/)**
+Portfolio with project details and write-ups: **[amarjeetyadav.vercel.app](https://amarjeetyadav.vercel.app/)**
 
 ## Tech Stack
 
