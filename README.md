@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm pursuing my MCA at Lovely Professional University (CGPA: 8.80/10, graduating 2027), with a focus on full stack development and backend engineering — REST APIs, authentication, and database design. Alongside coursework, I'm working on strengthening my DSA and system design fundamentals as I prepare for software engineering roles.
+I'm pursuing my MCA at Lovely Professional University (CGPA: 8.89/10, graduating 2027), with a focus on full stack development and backend engineering — REST APIs, authentication, and database design. Alongside coursework, I'm working on strengthening my DSA and system design fundamentals as I prepare for software engineering roles.
 
 I recently filed a patent through LPU's IPR Cell for a motion-based smart electricity saver for hostel rooms, and I served as Class Representative during my 1st and 2nd semesters of MCA.
 
